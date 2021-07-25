@@ -1,4 +1,4 @@
-[![abdulhadi5692HDI GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadi5692HDI)](https://github.com/anuraghazra/github-readme-stats)
+[![abdulhadi5692HDI GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadi5692HDI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
