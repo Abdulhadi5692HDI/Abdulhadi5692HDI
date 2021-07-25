@@ -1,3 +1,7 @@
+[![abdulhadi5692HDI GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadi5692HDI)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 👋 Hi, I’m @Abdulhadi5692HDI
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning nothing
