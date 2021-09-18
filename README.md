@@ -1,10 +1,7 @@
 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhadi5692hdi&show_icons=true&theme=react)
 
 
-- 👋 Hi, I’m @Abdulhadi5692HDI
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning 
-- 😁 Looking forward to contibrute to open source
 
 <!---
 Abdulhadi5692HDI/Abdulhadi5692HDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
