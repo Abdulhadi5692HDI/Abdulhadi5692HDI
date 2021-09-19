@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### Check out the repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhadi5692hdi&repo=github-readme-stats)](https://github.com/abdulhadi5692hdi/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhadi5692hdi&repo=github-readme-stats)](https://github.com/Abdulhadi5692HDI/ExamplePlugin)
 
 ### Tools and frameworks I use
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
