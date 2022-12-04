@@ -1,4 +1,4 @@
- 
+ <b>Note: </b>This account may or may not be discontinued.
 
 
 <img src="https://raw.githubusercontent.com/Abdulhadi5692HDI/Abdulhadi5692HDI/main/screenshot.png" alt="Me" />
